@@ -1,0 +1,36 @@
+body {
+    background-color: #F1F0CC;
+    font-family: sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+li{
+  color: #8E9AAF;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h1 {
+    color: #A5402D;
+    text-align: center;
+}
+  
+p {
+    font-family: verdana;
+    color: #A5402D;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav {
+      font-family: Tahoma;
+}
+
+header, footer {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
